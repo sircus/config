@@ -19,15 +19,14 @@ $ npm install sircus-global-property
 
 input.css
 ```css
-@import "sircus-global-property"
+@import "sircus-global-property";
 ```
 
 > use sass:
 
 input.scss
 ```css
-@import "node_modules/sircus-global-property/converted"
-@import "./your-theme-properties"
+@import "node_modules/sircus-global-property/converted";
 ```
 
 
