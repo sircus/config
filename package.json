@@ -1,13 +1,14 @@
 {
   "name": "sircus-global-property",
-  "description": "A variables module for Sircus.",
-  "version": "0.1.1",
+  "description": "Css variables module for Sircus.",
+  "version": "0.1.2",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalability",
-    "maintainability",
-    "designability",
-    "css"
+    "scalabe",
+    "design",
+    "css",
+    "cssnext",
+    "rwd"
   ],
   "author": {
     "name": "Yasuyuki Enomoto",
