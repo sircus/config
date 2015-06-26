@@ -3,43 +3,33 @@
 @custom-media --g-viewport-lg (min-width: 75em);
 
 :root {
-  --g-mono-100: #231815;
-  --g-mono-90:  #3E3A39;
-  --g-mono-80:  #595757;
-  --g-mono-70:  #727171;
-  --g-mono-60:  #898989;
-  --g-mono-50:  #9FA0A0;
-  --g-mono-40:  #B5B5B6;
-  --g-mono-30:  #C9CACA;
-  --g-mono-20:  #DCDDDD;
-  --g-mono-10:  #EFEFEF;
-  --g-mono-5:   #f2f2f2;
-  --g-mono-2:   #fafafa;
-
+  --g-gray-100: #231815;
+  --g-gray-80:  #575757;
+  --g-gray-60:  #898989;
+  --g-gray-40:  #B5B5B5;
+  --g-gray-20:  #DCDDDD;
+  --g-gray-10:  #EFEFEF;
+  --g-gray-5:   #f2f2f2;
 
   --g-primary:       #3B546C;
   --g-primary-dark:  #202E3B;
-  --g-primary-light: #567A9D;
-
+  --g-primary-light: #DDE5EB;
 
   --g-success:       #00CC99;
   --g-success-dark:  #00A47B;
-  --g-success-light: #56C9AC;
-
+  --g-success-light: #CCF5EB;
 
   --g-notice:        #66CCFF;
   --g-notice-dark:   #1AB2FF;
-  --g-notice-light:  #B3E5FF;
-
+  --g-notice-light:  #E1F5FF;
 
   --g-warning:       #FFCC00;
   --g-warning-dark:  #D9AD00;
-  --g-warning-light: #FFDB4D;
-
+  --g-warning-light: #FFF5CC;
 
   --g-error:         #EF4C43;
   --g-error-dark:    #D41C12;
-  --g-error-light:   #F58F89;
+  --g-error-light:   #FCDBD9;
 
 
   --g-space-gt: 5rem;
@@ -104,7 +94,7 @@
   --g-fontWeight-lighter: 200;
 
 
-  --g-borderColor: var(--g-mono-20);
+  --g-borderColor: var(--g-gray-20);
   --g-borderStyle: solid;
   --g-borderSize : 1px;
   --g-border: var(--g-borderSize) var(--g-borderStyle) var(--g-borderColor);
