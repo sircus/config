@@ -78,22 +78,22 @@ $g-borderStyle: solid !default;
 $g-borderSize: 1px !default;
 $g-border: $g-borderSize $g-borderStyle $g-borderColor !default;
 $g-gutter: ($g-space / 2) !default;
-$g-controlsColor: $g-mono-30 !default;
-$g-controlsBorderSize: .0625rem !default;
-$g-controlsBorderRadius: $g-borderRadius-md !default;
-$g-controlsHeight-sm: (1.5rem - $g-controlsBorderSize) !default;
-$g-controlsHeight-md: (2.25rem - $g-controlsBorderSize) !default;
-$g-controlsHeight-lg: (3rem - $g-controlsBorderSize) !default;
-$g-controlsHeight-xl: (3.75rem - $g-controlsBorderSize) !default;
-$g-controlsHeight: $g-controlsHeight-md !default;
-$g-controlsSpaceV-xl: .75rem !default;
-$g-controlsSpaceH-xl: 3rem !default;
-$g-controlsSpaceV-lg: .5rem !default;
-$g-controlsSpaceH-lg: 2rem !default;
-$g-controlsSpaceV: .25rem !default;
-$g-controlsSpaceH: 1rem !default;
-$g-controlsSpaceV-sm: .125rem !default;
-$g-controlsSpaceH-sm: .5rem !default;
+$g-controls-color: $g-gray-40 !default;
+$g-controls-borderSize: .0625rem !default;
+$g-controls-borderRadius: $g-borderRadius-md !default;
+$g-controls-height-sm: (1.5rem - $g-controls-borderSize) !default;
+$g-controls-height-md: (2.25rem - $g-controls-borderSize) !default;
+$g-controls-height-lg: (3rem - $g-controls-borderSize) !default;
+$g-controls-height-xl: (3.75rem - $g-controls-borderSize) !default;
+$g-controls-height: $g-controls-height-md !default;
+$g-controls-spaceV-xl: .75rem !default;
+$g-controls-spaceH-xl: 3rem !default;
+$g-controls-spaceV-lg: .5rem !default;
+$g-controls-spaceH-lg: 2rem !default;
+$g-controls-spaceV: .25rem !default;
+$g-controls-spaceH: 1rem !default;
+$g-controls-spaceV-sm: .125rem !default;
+$g-controls-spaceH-sm: .5rem !default;
 
 // Custom Media Query Variables
 

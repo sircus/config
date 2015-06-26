@@ -110,23 +110,21 @@
   --g-gutter: calc(var(--g-space) / 2);
 
 
-  --g-controlsColor: var(--g-mono-30);
-  --g-controlsBorderSize: .0625rem;
-  --g-controlsBorderRadius: var(--g-borderRadius-md);
-
-  --g-controlsHeight-sm: calc(1.5rem - var(--g-controlsBorderSize));
-  --g-controlsHeight-md: calc(2.25rem - var(--g-controlsBorderSize));
-  --g-controlsHeight-lg: calc(3rem - var(--g-controlsBorderSize));
-  --g-controlsHeight-xl: calc(3.75rem - var(--g-controlsBorderSize));
-  --g-controlsHeight: var(--g-controlsHeight-md);
-
-  --g-controlsSpaceV-xl: .75rem;
-  --g-controlsSpaceH-xl: 3rem;
-  --g-controlsSpaceV-lg: .5rem;
-  --g-controlsSpaceH-lg: 2rem;
-  --g-controlsSpaceV: .25rem;
-  --g-controlsSpaceH: 1rem;
-  --g-controlsSpaceV-sm: .125rem;
-  --g-controlsSpaceH-sm: .5rem;
+  --g-controls-color: var(--g-gray-40);
+  --g-controls-borderSize: .0625rem;
+  --g-controls-borderRadius: var(--g-borderRadius-md);
+  --g-controls-height-sm: calc(1.5rem - var(--g-controls-borderSize));
+  --g-controls-height-md: calc(2.25rem - var(--g-controls-borderSize));
+  --g-controls-height-lg: calc(3rem - var(--g-controls-borderSize));
+  --g-controls-height-xl: calc(3.75rem - var(--g-controls-borderSize));
+  --g-controls-height: var(--g-controls-height-md);
+  --g-controls-spaceV-xl: .75rem;
+  --g-controls-spaceH-xl: 3rem;
+  --g-controls-spaceV-lg: .5rem;
+  --g-controls-spaceH-lg: 2rem;
+  --g-controls-spaceV: .25rem;
+  --g-controls-spaceH: 1rem;
+  --g-controls-spaceV-sm: .125rem;
+  --g-controls-spaceH-sm: .5rem;
 
 }
