@@ -77,6 +77,9 @@
   --g-letterSpace: var(--g-letterSpace-md);
 
 
+  --g-gutter: calc(var(--g-space) / 2);
+
+
   --g-fontFamily-sansEn: "Helvetica Neue", Calibri, sans-serif;
   --g-fontFamily-sansJa: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
   --g-fontFamily-serifEn: Baskerville, Cambria, serif;
@@ -96,18 +99,15 @@
   --g-fontSize: var(--g-fontSize-md);
 
 
-  --g-fontWeight-normal: normal;
-  --g-fontWeight-bold: bold;
-  --g-fontWeight-lighter: lighter;
+  --g-fontWeight-normal: 400;
+  --g-fontWeight-bold: 700;
+  --g-fontWeight-lighter: 200;
 
 
   --g-borderColor: var(--g-mono-20);
   --g-borderStyle: solid;
   --g-borderSize : 1px;
   --g-border: var(--g-borderSize) var(--g-borderStyle) var(--g-borderColor);
-
-
-  --g-gutter: calc(var(--g-space) / 2);
 
 
   --g-controls-color: var(--g-gray-40);
