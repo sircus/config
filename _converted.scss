@@ -51,6 +51,7 @@ $g-letterSpace-sm: (0 - .04em) !default;
 $g-letterSpace-xs: (0 - .08em) !default;
 $g-letterSpace: $g-letterSpace-md !default;
 $g-gutter: ($g-space / 2) !default;
+$g-gutter2x: ($g-gutter * 2) !default;
 $g-fontFamily-sansEn: "Helvetica Neue", Calibri, sans-serif !default;
 $g-fontFamily-sansJa: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif !default;
 $g-fontFamily-serifEn: Baskerville, Cambria, serif !default;

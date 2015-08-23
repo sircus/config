@@ -68,6 +68,7 @@
 
 
   --g-gutter: calc(var(--g-space) / 2);
+  --g-gutter2x: calc(var(--g-gutter) * 2);
 
 
   --g-fontFamily-sansEn: "Helvetica Neue", Calibri, sans-serif;
