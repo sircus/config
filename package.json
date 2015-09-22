@@ -1,7 +1,7 @@
 {
   "name": "sircus-global-property",
   "description": "CSS variables module for manage to colors, sizes and fonts used in Sircus.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "homepage": "http://sircus.github.io",
   "keywords": [
     "modular",
